@@ -37,3 +37,12 @@ We’ll dive into the implementation part of this Project soon, but first it’s
 
 11.Result visualization
 
+<h2>Research Paper</h2>
+
+Project is totally based on research papers as project predict output using LSTM based deep learning models:
+
+https://arxiv.org/abs/2009.10819
+
+https://www.aclweb.org/anthology/W19-6403.pdf
+
+https://www.sciencedirect.com/science/article/pii/S1877050920304865
